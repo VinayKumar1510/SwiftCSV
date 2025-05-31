@@ -1,6 +1,6 @@
 export default function AboutPage() {
   return (
-    <main className="min-h-screen bg-gradient-to-tr from-gray-900 via-gray-800 to-gray-900 text-gray-300 flex flex-col items-center px-4 sm:px-6 md:px-8 py-12 sm:py-16">
+    <main className="min-h-screen bg-gradient-to-br from-[#0f0c29] via-[#302b63] to-[#24243e] text-gray-200 p-6 flex flex-col items-center px-4 sm:px-6 md:px-8 py-12 sm:py-16">
       <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-600 bg-clip-text text-transparent mb-8 drop-shadow-lg text-center">
         About SwiftCSV
       </h1>
